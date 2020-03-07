@@ -1,7 +1,7 @@
 # Dominion Kingdom Card Randomizer
 Randomly selects 10 Kingdom Cards from toggled expansions for use in a new game of [Dominion](http://wiki.dominionstrategy.com/index.php/Main_Page)
 
-![application](https://github.com/robertveboyd/dominion-clean-architecture/blob/master/docs/images/application.jpg)
+![application](https://raw.githubusercontent.com/robertveboyd/dominion-clean-architecture/master/doc/images/application.jpg)
 
 ## Scripts
 
@@ -25,6 +25,6 @@ launches react app
 
 Application is broken into two packages, "core" and "web".  Architecture follows principles of [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) by Bob Martin.
 
-![clean-architecture](https://github.com/robertveboyd/dominion-clean-architecture/blob/master/docs/images/clean-architecture.jpg)  
+![clean-architecture](https://raw.githubusercontent.com/robertveboyd/dominion-clean-architecture/master/doc/images/clean-architecture.jpg)
 
 
