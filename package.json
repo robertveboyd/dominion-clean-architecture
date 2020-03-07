@@ -1,0 +1,15 @@
+{
+  "name": "dominion-clean-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd core && npm install && cd ../web && npm install",
+    "build": "cd core && npm run build && cd ../web && npm run build",
+    "test": "cd core && npm run test",
+    "start": "cd web && npm run start"
+  },
+  "keywords": [],
+  "author": "Robert Boyd",
+  "license": "ISC"
+}
